@@ -11,7 +11,7 @@ const pasos = [
   },
   {
     n: '02',
-    title: 'Nos conectamos por control remoto',
+    title: 'Nos conectamos por TeamViewer, AnyDesk',
     body: 'Te paso un enlace, lo abres y entro a tu equipo con tu pantalla visible en todo momento. Nada oculto.',
   },
   {
